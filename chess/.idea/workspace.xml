@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52c7f6b6-f1c6-4ec4-9e3c-a51a2300225b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Bishop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bishop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/CheckInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Queen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/DevBishopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/DevBishopTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1p4GDr4THPk7K4Ct4McVuO9dV2O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52c7f6b6-f1c6-4ec4-9e3c-a51a2300225b" name="Default Changelist" comment="" />
+      <created>1614434835312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614434835312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
