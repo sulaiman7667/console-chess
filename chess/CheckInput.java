@@ -13,7 +13,7 @@ public class CheckInput {
                 numeric = false;
             }
 
-            if(numeric == true && s.length() > 1 && s.length() < 3 ){
+            if(numeric == true && s.length() == 2 ){
             	if(Integer.parseInt(s.substring(0,1)) >= 1 && Integer.parseInt(s.substring(0,1)) <= 8 &&  (s.charAt(1) == 'a' || s.charAt(1) == 'b' || s.charAt(1) == 'c' || s.charAt(1) == 'd' || s.charAt(1) == 'e' || s.charAt(1) == 'f' || s.charAt(1) == 'g' || s.charAt(1) == 'h')){
     			return true;
     		}

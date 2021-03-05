@@ -72,9 +72,7 @@ public class Board {
 				}				
 				System.out.print("  "+row+"\n");
 		}
-		// Board.setPiece(5,5,Board.getPiece(7,5));
-		// board[7][5].removePiece();
-		// printBoard();
+		
 
 		System.out.print("  -----------------");
 		System.out.print("\n  a b c d e f g h \n");	
